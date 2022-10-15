@@ -1,0 +1,1 @@
+BLOG_ADDED='Blog added'
